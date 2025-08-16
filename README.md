@@ -57,7 +57,7 @@ This Power BI project analyzes sales, profit, customer behavior, and supply chai
 - Excel dataset  
 
 ## Images of dashboard
-![Overview](screenshots/dashboard.png)
+![Overview](<img width="1118" height="627" alt="image" src="https://github.com/user-attachments/assets/591e0ba9-1c56-47e3-b61b-cc47bca7cbaa" />)
 ![Product](screenshots/dashboard.png)
 ![Customer](screenshots/dashboard.png)
 ![Supply chain](screenshots/dashboard.png)
